@@ -1,3 +1,6 @@
+/**
+ * RiskPage - Risk assessment and management dashboard
+ */
 import { motion } from 'framer-motion';
 import {
     AlertTriangle,
