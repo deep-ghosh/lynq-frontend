@@ -1,3 +1,6 @@
+/**
+ * SettingsPage - User settings and preferences configuration
+ */
 import { useState } from 'react';
 import { Settings, Bell, Shield, User, Wallet, Moon, Sun, Info } from 'lucide-react';
 import { TelegramConnect } from '../components/telegram/TelegramConnect';
