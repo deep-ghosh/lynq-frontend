@@ -1,3 +1,6 @@
+/**
+ * LandingPage - Advanced landing page with 3D globe and interactive features
+ */
 import React, { useState, Suspense } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { Link, useNavigate } from 'react-router-dom';
