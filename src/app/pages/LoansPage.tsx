@@ -1,3 +1,6 @@
+/**
+ * LoansPage - Complete loan management interface with filtering and search
+ */
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Link, useNavigate } from 'react-router-dom';
