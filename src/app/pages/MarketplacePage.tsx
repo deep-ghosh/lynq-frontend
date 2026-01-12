@@ -1,3 +1,6 @@
+/**
+ * MarketplacePage - Live cryptocurrency marketplace with CoinGecko integration
+ */
 import React, { Suspense, useState, useEffect, useMemo, useCallback } from 'react';
 import axios from 'axios';
 import { LoadingFallback } from '../../shared/components/Loading';
