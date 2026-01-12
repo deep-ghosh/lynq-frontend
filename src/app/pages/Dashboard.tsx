@@ -1,3 +1,6 @@
+/**
+ * Dashboard - User profile and wallet overview dashboard
+ */
 import React, { Suspense } from 'react';
 import ErrorBoundary from '../../shared/components/ErrorBoundary';
 import { LoadingFallback } from '../../shared/components/Loading';
