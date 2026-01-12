@@ -1,3 +1,6 @@
+/**
+ * FlashLoan - Component wrapper for flash loan dashboard
+ */
 import React, { Suspense, lazy } from 'react';
 import ErrorBoundary from '../../shared/components/ErrorBoundary';
 import { LoadingFallback } from '../../shared/components/Loading';
