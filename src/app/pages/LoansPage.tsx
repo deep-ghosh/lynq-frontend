@@ -16,7 +16,7 @@ import {
   Calendar,
   Shield
 } from 'lucide-react';
-import { Button } from '../components/ui/Button';
+import { Button } from '../../shared/components/ui/Button';
 import { contractService } from '../../shared/services/contractService';
 import { useWalletStore } from '../../shared/store/walletStore';
 import { MetricCard } from '../components/lynq/MetricCard';
