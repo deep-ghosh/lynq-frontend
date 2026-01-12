@@ -1,3 +1,6 @@
+/**
+ * Loans - Component wrapper for loan request and eligibility features
+ */
 import React, { Suspense } from 'react';
 import { LoadingFallback } from '../../shared/components/Loading';
 import {
