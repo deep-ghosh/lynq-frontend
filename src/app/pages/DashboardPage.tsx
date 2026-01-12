@@ -24,7 +24,7 @@ import { MetricCard } from '../components/lynq/MetricCard';
 import { RiskMeter } from '../components/lynq/RiskMeter';
 import { ConfidenceRing } from '../components/lynq/ConfidenceRing';
 import { StatusChip } from '../components/lynq/StatusChip';
-import { Button } from '../components/ui/Button';
+import { Button } from '../../shared/components/ui/Button';
 
 const DashboardPage: React.FC = () => {
   const { address } = useWalletStore();
