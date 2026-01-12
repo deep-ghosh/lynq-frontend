@@ -9,7 +9,7 @@ import {
   LazyCoinCard,
   LazyAssetTable,
   LazyTradeInterface,
-} from '../lazyComponents';
+} from '../lazyComponents.tsx';
 
 interface MarketplaceProps {
   marketStats: any;
