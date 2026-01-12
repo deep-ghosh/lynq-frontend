@@ -1,3 +1,6 @@
+/**
+ * DashboardPage - Main protocol dashboard with metrics and active loans
+ */
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
