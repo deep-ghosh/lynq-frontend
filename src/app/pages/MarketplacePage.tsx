@@ -11,7 +11,7 @@ import {
   LazyCoinCard,
   LazyAssetTable,
   LazyTradeInterface,
-} from '../lazyComponents';
+} from '../lazyComponents.tsx';
 
 interface Coin {
   id: string;
