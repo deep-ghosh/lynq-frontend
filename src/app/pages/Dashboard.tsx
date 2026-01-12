@@ -9,7 +9,7 @@ import {
   LazyProfileDashboard,
   LazyPersonalDetails,
   LazyTransaction,
-} from '../lazyComponents';
+} from '../lazyComponents.tsx';
 
 const Dashboard: React.FC = () => {
   const address = useWalletStore((state) => state.address);
