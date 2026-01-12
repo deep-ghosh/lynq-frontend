@@ -15,7 +15,7 @@ import {
   Plus,
   Shield
 } from 'lucide-react';
-import { Button } from '../components/ui/Button';
+import { Button } from '../../shared/components/ui/Button';
 import { ConfidenceRing } from '../components/lynq/ConfidenceRing';
 
 const FlashLoanPage: React.FC = () => {
