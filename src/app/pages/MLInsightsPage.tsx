@@ -1,3 +1,6 @@
+/**
+ * MLInsightsPage - Machine learning insights and predictions dashboard
+ */
 import React from 'react';
 import { motion } from 'framer-motion';
 import {
