@@ -17,7 +17,7 @@ import { CONTRACT_ADDRESSES } from '../../shared/config/contracts';
 import { loanApi } from '../../shared/services/api/loanApi';
 import { mlApi } from '../../shared/services/api/ml';
 import toast from 'react-hot-toast';
-import { Button } from '../components/ui/Button';
+import { Button } from '../../shared/components/ui/Button';
 import { RiskMeter } from '../components/lynq/RiskMeter';
 
 const CreateLoanPage: React.FC = () => {
