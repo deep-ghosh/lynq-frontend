@@ -1,3 +1,6 @@
+/**
+ * Landing - Simple marketing landing page with hero and features
+ */
 import React from 'react';
 import HeroSection from '../components/landing/HeroSection';
 import Features from '../components/landing/Features';
