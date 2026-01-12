@@ -1,3 +1,6 @@
+/**
+ * GovernancePage - DAO governance and voting interface
+ */
 import { motion } from 'framer-motion';
 import {
     Vote,
