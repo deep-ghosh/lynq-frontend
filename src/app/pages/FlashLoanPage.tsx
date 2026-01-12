@@ -1,3 +1,6 @@
+/**
+ * FlashLoanPage - Advanced flash loan execution interface with multi-wallet support
+ */
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
