@@ -1,3 +1,6 @@
+/**
+ * Marketplace - Component wrapper for marketplace features and trading
+ */
 import React, { Suspense } from 'react';
 import { LoadingFallback } from '../../shared/components/Loading';
 import {
