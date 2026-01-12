@@ -1,3 +1,6 @@
+/**
+ * ProtocolPage - Protocol statistics and analytics overview
+ */
 import { motion } from 'framer-motion';
 import {
     Shield,
